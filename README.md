@@ -2,10 +2,6 @@
 
 เว็บหน้าเดียว HTML/CSS/JavaScript ไม่มี dependency หรือขั้นตอน build รองรับ GitHub Pages ทั้ง repository หลักและ project repository เพราะใช้ relative paths
 
-## ดูเว็บ
-
-เปิด `index.html` ด้วยเบราว์เซอร์ได้เลย หรือใช้ local HTTP server
-
 ## แก้เนื้อหา
 
 - `index.html`: ชื่อ, Summary, โปรเจกต์, เครื่องมือ, อีเมล, LinkedIn และวันฝึกงาน

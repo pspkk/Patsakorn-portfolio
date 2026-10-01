@@ -24,3 +24,7 @@
 
 .edu-logo-visual{display:flex;align-items:center;justify-content:center;background:#f3f0eb;padding:20px}.edu-logo-visual img{display:block;width:100%;height:100%;object-fit:contain}
 
+
+/* Align project actions across cards with different description lengths. */
+.project-grid>.small-project{display:flex;flex-direction:column}.project-grid>.small-project>.edu-visual,.project-grid>.small-project>.feature-visual{flex-shrink:0}.project-grid .small-copy{display:flex;flex-direction:column;flex:1}.project-grid .small-copy>.project-details-button{margin-top:auto;align-self:flex-start}
+

@@ -21,3 +21,6 @@
 
 .project-details-cta{display:flex;align-items:flex-start;flex-direction:column;gap:10px;margin-top:26px}.project-details-button{font-size:15px;padding:15px 24px;min-height:50px;box-shadow:0 4px 12px #183d3218}.project-details-button:hover{background:#284f40;color:white}.project-details-button:focus-visible{outline:3px solid #748767;outline-offset:4px}.project-details-hint{font-size:12px;color:var(--muted);line-height:1.5}@media(max-width:650px){.project-details-button{width:100%;justify-content:space-between}}
 
+
+.edu-logo-visual{display:flex;align-items:center;justify-content:center;background:#f3f0eb;padding:20px}.edu-logo-visual img{display:block;width:100%;height:100%;object-fit:contain}
+

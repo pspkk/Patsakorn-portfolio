@@ -13,6 +13,8 @@
 
 .accident-feature{grid-template-columns:1fr}.accident-live{padding:20px;min-width:0}.accident-live iframe{display:block;width:100%;height:auto;aspect-ratio:600/373.5;border:0;background:white}.accident-report-footer{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.accident-report-footer .text-link{font-size:12px}.accident-feature .project-copy{max-width:850px}@media(max-width:650px){.accident-live{padding:10px}.accident-live iframe{min-height:280px}}
 
+.transport-live iframe{display:block;width:100%;height:auto;aspect-ratio:16/9;min-height:300px;border:0;background:white}@media(max-width:650px){.transport-live iframe{min-height:260px}}
+
 .hero-portrait{margin:0;max-width:370px;width:100%;justify-self:center;align-self:center;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#eeefec}.hero-portrait img{display:block;width:100%;height:auto}.hero-portrait figcaption{padding:16px 20px;background:#e9ecdf}.hero-portrait strong{display:block;font-size:16px}.hero-portrait figcaption span{display:block;margin-top:5px;font-size:11px;color:var(--muted)}@media(max-width:650px){.hero-portrait{max-width:290px;margin:30px auto 0}}
 
 
@@ -27,4 +29,7 @@
 
 /* Align project actions across cards with different description lengths. */
 .project-grid>.small-project{display:flex;flex-direction:column}.project-grid>.small-project>.edu-visual,.project-grid>.small-project>.feature-visual{flex-shrink:0}.project-grid .small-copy{display:flex;flex-direction:column;flex:1}.project-grid .small-copy>.project-details-button{margin-top:auto;align-self:flex-start}
+
+
+.transport-feature{margin-top:28px;border-radius:8px;box-shadow:0 8px 26px #183d3210}.transport-feature .project-visual{border-radius:8px 8px 0 0}.transport-feature .project-copy{padding-top:30px}
 
